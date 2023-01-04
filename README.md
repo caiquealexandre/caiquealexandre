@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 
 
 ## Olá, eu sou Caíque Alexandre 
- <div>
-  <a href="https://github.com/caiquealexandre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquealexandre&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquealexandre&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Caique-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Caique-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
